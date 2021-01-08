@@ -1,4 +1,3 @@
-//Autor: Marcin Przyby³
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
